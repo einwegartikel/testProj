@@ -6,6 +6,6 @@ using namespace std;
 int main() {
 	string name;
 	cin >> name;
-	cout << "Wassup " << name << "!!!!!!!!!!!!" << endl;
+	cout << "Hello " << name << "." << endl;
 	return 0;
 }
